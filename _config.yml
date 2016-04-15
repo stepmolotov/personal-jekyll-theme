@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "There is nothing either good or bad, but thinking makes it so."
-  - text: "Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness. Armour yourself in it, and it will never be used to hurt you."
+  - text: "Never forget what you are, for surely the world will not."
 
 me-img: "/img/me.png"
 

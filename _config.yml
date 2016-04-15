@@ -31,7 +31,7 @@ force-https: True
 lang: "it"
 author: "stepmolotov"
 title: "{ stepmolotov }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+description: "That's not a blog. That's just me."
 keywords: "stepmolotov, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/written.png"
 
 ##############################
 # Dynamic Text on the Header #
@@ -57,6 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "There is nothing either good or bad, but thinking makes it so."
   - text: "Never forget what you are, for surely the world will not."
+  - text: "Keep it simple."
 
 me-img: "/img/me.png"
 
@@ -100,7 +101,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "stepmolotov"
 
 syntax-highlight: True
 
@@ -124,7 +125,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "hello@stepmolotov.it"
 
 ################
 # Author Blurb #

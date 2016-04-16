@@ -16,7 +16,7 @@ baseurl: ""
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-35880426-4"
+google-tracking-id: ""
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -32,7 +32,7 @@ lang: "it"
 author: "stepmolotov"
 title: "{ stepmolotov }"
 description: "That's not a blog. That's just me."
-keywords: "stepmolotov, personal, jekyll, theme"
+keywords: "stepmolotov, personal, developer, cs"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,8 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "There is nothing either good or bad, but thinking makes it so."
-  - text: "Never forget what you are, for surely the world will not."
+  - text: "Welcome visitor!"
+  - text: "How did you find me?!"
+  - text: "Why are you here?"
   - text: "Keep it simple."
 
 me-img: "/img/me.png"
@@ -73,7 +74,7 @@ apple-status-bar-style: "black"
 
 web-app-mode: True
 
-# Icons for Web App mode
+# Icons for Web App mode --> ADD YOUR OWN
 
 icon-36p: "/img/web-app/icon-36p.png"
 icon-48p: "/img/web-app/icon-48p.png"
@@ -112,10 +113,10 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/spidertocat.png"
     date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    description: "CS student at University Of Pisa"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "September 2008 - June 2013"
+    description: "High School time"
 
 # First image of the Timeline
 
@@ -125,7 +126,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "hello@stepmolotov.it"
+email: "step.molotov@gmail.com"
 
 ################
 # Author Blurb #
@@ -135,7 +136,7 @@ email: "hello@stepmolotov.it"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "CS Student at University Of Pisa"
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -148,9 +149,7 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/stepmolotov/"
   - title: "rss"
     url: "/feed.xml"
 

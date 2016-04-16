@@ -111,16 +111,15 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/pisa.png"
     date: "September 2013 - Today"
     description: "CS student at University Of Pisa"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/pescia.png"
     date: "September 2008 - June 2013"
     description: "High School time"
 
 # First image of the Timeline
-
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/github.png"
 
 ###########
 # Contact #

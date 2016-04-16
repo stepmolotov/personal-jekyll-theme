@@ -113,7 +113,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/pisa.png"
     date: "September 2013 - Today"
-    description: "CS student at University Of Pisa"
+    description: "CS student at the University Of Pisa"
   - image: "/img/timeline/pescia.png"
     date: "September 2008 - June 2013"
     description: "High School time"
@@ -135,7 +135,7 @@ email: "step.molotov@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "CS Student at University Of Pisa"
+author_blurb: "CS Student at the University Of Pisa"
 author_blurb_image: "/img/author.png"
 
 ##################

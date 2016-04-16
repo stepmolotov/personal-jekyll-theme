@@ -39,7 +39,7 @@ favicon: "/img/atom.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/atom.ico"
+black-favicon: "/img/atom_white.ico"
 
 background-img: "/img/written.png"
 

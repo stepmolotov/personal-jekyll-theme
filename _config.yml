@@ -33,13 +33,13 @@ author: "stepmolotov"
 title: "{ stepmolotov }"
 description: "That's not a blog. That's just me."
 keywords: "stepmolotov, personal, developer, cs"
-favicon: "/img/favicon.ico"
+favicon: "/img/atom.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/atom_white.ico"
+black-favicon: "/img/atom.ico"
 
 background-img: "/img/written.png"
 

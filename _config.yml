@@ -39,7 +39,7 @@ favicon: "/img/smufavicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/smufavicon.ico"
 
 background-img: "/img/written.png"
 

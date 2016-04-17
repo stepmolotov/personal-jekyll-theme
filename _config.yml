@@ -119,7 +119,7 @@ events:
     description: "High School time"
 
 # First image of the Timeline
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/github.png"
 
 ###########
 # Contact #

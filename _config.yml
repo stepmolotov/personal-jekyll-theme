@@ -111,7 +111,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/pisa.png"
+  - image: "/img/timeline/pisas.png"
     date: "September 2013 - Today"
     description: "CS student at the University Of Pisa"
   - image: "/img/timeline/pescia.png"
